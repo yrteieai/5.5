@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4B75C5-57B6-4B42-8D06-6B99C23D7DC5}|55555555\\55555555.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\55555555\\55555555.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E4B75C5-57B6-4B42-8D06-6B99C23D7DC5}|55555555\\55555555.vcxproj|solutionrelative:55555555\\55555555.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F281B251-B0DF-4105-8F30-904CABE1A88A}|UnitTest55plachu\\UnitTest55plachu.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\UnitTest55plachu\\UnitTest55plachu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F281B251-B0DF-4105-8F30-904CABE1A88A}|UnitTest55plachu\\UnitTest55plachu.vcxproj|solutionrelative:UnitTest55plachu\\UnitTest55plachu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest55plachu.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\UnitTest55plachu\\UnitTest55plachu.cpp",
+              "RelativeDocumentMoniker": "UnitTest55plachu\\UnitTest55plachu.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\UnitTest55plachu\\UnitTest55plachu.cpp",
+              "RelativeToolTip": "UnitTest55plachu\\UnitTest55plachu.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T15:35:49.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "55555555.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\55555555\\55555555.cpp",
+              "RelativeDocumentMoniker": "55555555\\55555555.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\55555555\\55555555\\55555555.cpp",
+              "RelativeToolTip": "55555555\\55555555.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T15:34:18.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
